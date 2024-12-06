@@ -16,11 +16,12 @@
   <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white">
   </div>
   <div align="center">
+  <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white">
@@ -44,3 +45,7 @@
 [![Seon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon207&show_icons=true&theme=flag-india#gh-light-mode-only)](https://github.com/seon207/github-readme-stats#gh-light-mode-only)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunju701)](https://solved.ac/sunju701/)
 
+<div align=center><h1>💻 CONTACT</h1></div>
+<div align="center">
+  <a href="mailto:sunju701@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/></a>
+</div>
