@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,5,10,24,12,24&height=250&section=header&text=Seon's%20GITHUB&fontSize=75)
 
-<div align=center><h1>💻 SKILLS</h1></div>
+<div align=center><h1>💻 SKILLS</h1></div>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-34A853?logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white">
