@@ -19,12 +19,13 @@
   <img src="https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white">
   </div>
   <div align="center">
-  <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white">
   </div>
 
