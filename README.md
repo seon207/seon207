@@ -4,9 +4,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Android-34A853?logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white">
   </div>
   <div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
@@ -17,7 +18,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white">
+  </div>
+  <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white">
   </div>
 
         
